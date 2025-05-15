@@ -1,4 +1,4 @@
-# Manual-Configuracion-Owncloud-Recuperacion
+# Manual-Instalació i Configuració-Owncloud-Recuperació
 ## Ens fiquem en l'owncloud
 ![Captura de pantalla de 2025-05-08 14-26-24](https://github.com/user-attachments/assets/5e6b362e-543f-4424-88c9-19891393741f)
 ![Captura de pantalla de 2025-05-08 14-26-58](https://github.com/user-attachments/assets/7d0e273d-43c7-4fae-8d25-732eafe07597)
