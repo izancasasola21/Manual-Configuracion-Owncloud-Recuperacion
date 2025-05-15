@@ -29,3 +29,30 @@ Es pot observar com s'ha pujat
 
 ## Configurar polítiques de seguretat
 ![Captura de pantalla de 2025-05-09 14-25-51](https://github.com/user-attachments/assets/95b30ff5-a043-4049-9617-64f62bd88a4b)
+
+## Configurar l’accés remot a ownCloud des d’un altre dispositiu
+![Captura de pantalla de 2025-05-15 10-02-30](https://github.com/user-attachments/assets/43d384b5-ce5e-46b1-aded-7c42005b981f)
+
+## A continuació configurarem el necesari per poder fer-ho
+![Captura desde 2025-05-15 09-58-26](https://github.com/user-attachments/assets/9d453668-e523-4b46-a7b9-49da8a2e456b)
+![Captura desde 2025-05-15 09-59-28](https://github.com/user-attachments/assets/96d60772-5d42-4266-9bfc-3cac015a6246)
+![Captura desde 2025-05-15 09-59-47(1)](https://github.com/user-attachments/assets/81b5278a-27b1-4694-9401-d33eae650bb8)
+![Captura desde 2025-05-15 10-00-00(1)](https://github.com/user-attachments/assets/f6f1af38-5191-4845-96f8-516184b49630)
+![Captura desde 2025-05-15 10-00-34(1)](https://github.com/user-attachments/assets/1e4d7b1d-de07-476f-986f-dff31813a383)
+![Captura desde 2025-05-15 10-01-53(1)](https://github.com/user-attachments/assets/1e4cafb1-135d-43c3-a820-859b8e11856c)
+![Captura desde 2025-05-15 10-04-44(1)](https://github.com/user-attachments/assets/a0062bd8-9a23-472d-89ec-dd11c11fd49d)
+![Captura desde 2025-05-15 10-05-13(1)](https://github.com/user-attachments/assets/132a4ce0-c9f3-4412-a886-be42c4fb12bd)
+![Captura desde 2025-05-15 10-06-43(1)](https://github.com/user-attachments/assets/143b7b05-5e77-4c13-b6e7-a8e303cdac11)
+![Captura desde 2025-05-15 10-07-31(1)](https://github.com/user-attachments/assets/ea94a679-69b8-4b17-93e9-bb518d3f97cb)
+
+## A continuació ho comprovarem desde un altre dispositiu
+![Captura desde 2025-05-15 10-09-32](https://github.com/user-attachments/assets/6bba2656-1e09-489c-8809-4e445d67ead8)
+![Captura desde 2025-05-15 10-11-27](https://github.com/user-attachments/assets/a78fa7f9-239d-4072-9635-eaa58f6a545c)
+![Captura desde 2025-05-15 10-11-06](https://github.com/user-attachments/assets/1f2a23c7-7882-4668-b143-8dd5e3593a3a)
+
+
+
+
+
+
+
